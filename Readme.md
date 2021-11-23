@@ -1,0 +1,1 @@
+`delete_useless_file` 搜索完的数据可以使用脚本删掉MS1 PF1等信息，不影响日常使用，删除pLink report下的tmps文件夹。
